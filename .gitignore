@@ -2,3 +2,8 @@
 ### Vagrant template
 .vagrant/
 /vagrant/config.yaml
+
+### Composer template
+/vendor/
+composer.lock
+
