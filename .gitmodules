@@ -1,0 +1,3 @@
+[submodule "vagrant/modules"]
+	path = vagrant/modules
+	url = git@github.com:vdubyna/vagrant-modules.git
